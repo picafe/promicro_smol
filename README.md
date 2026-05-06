@@ -15,10 +15,11 @@ This project started as a modification of Chrysalis to support operation at 1.8V
 ![Schematic view](./images/kicad_0tHGa6QgOD.png)
 
 ## Credits and Attribution
-This work is derived from the Chrysalis hardware project.
-Files from `Chrysalis-Footprints.pretty` are sourced from the Chrysalis project with modifications.
-Upstream project: [kounocom/Chrysalis](https://github.com/kounocom/Chrysalis)
-License context: The upstream project is provided under CERN-OHL-S-2.0, and this repository includes the applicable license text in `LICENSE.md`.
+This work is derived from the [kounocom/Chrysalis](https://github.com/kounocom/Chrysalis) hardware project.
+
+Files from `Chrysalis-Footprints.pretty` are sourced from the Chrysalis project with and without modifications.
+
+The upstream project is provided under CERN-OHL-S-2.0, and this repository includes the applicable license text in `LICENSE.md`.
 
 ## Bill of Materials
 
