@@ -12,6 +12,7 @@ This project started as a modification of Chrysalis to support operation at 1.8V
 
 ### Schematic
 [View Online](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fpicafe%2Fpromicro_smol%2Fblob%2Fmain%2Fpcb%2Fpromicro_smol.kicad_sch)
+
 ![Schematic Image](./images/kicad_0tHGa6QgOD.png)
 ### PCB
 [View Online](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fpicafe%2Fpromicro_smol%2Fblob%2Fmain%2Fpcb%2Fpromicro_smol.kicad_pcb)
