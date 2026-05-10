@@ -479,7 +479,7 @@
 		)
 		(path "/9c5ef205-fb46-4e8d-a9af-b1671fcd0c35")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 2.55 -1.17)
@@ -862,7 +862,7 @@
 		)
 		(path "/b61e1cc8-d495-467f-93a1-b5a8f11cafb5")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.61 -1.36)
@@ -1201,7 +1201,7 @@
 		)
 		(path "/d9bff3d3-1db2-4181-b44e-284293f67595")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7.62 -16.51)
@@ -1790,7 +1790,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/bc5886bb-ad4e-4259-92e5-11190279b30e")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(solder_mask_margin 0.038)
 		(attr smd)
 		(fp_line
@@ -2196,7 +2196,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9a86fe37-23ac-4bdf-959c-dc0f0d1e22bc")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(solder_mask_margin 0.038)
 		(fp_line
 			(start 0.9 0.4)
@@ -2560,7 +2560,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0eaa0e4c-0b9e-4466-99f1-1a7cbf4b8adc")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(solder_mask_margin 0.038)
 		(attr smd)
 		(fp_line
@@ -2782,7 +2782,7 @@
 		)
 		(path "/d0070ef6-9924-4834-91fc-115a369b14ad")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.65 -0.9)
@@ -3051,7 +3051,7 @@
 		)
 		(path "/a3d56488-ef11-4db7-a1b3-979b9c8beb19")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.62 0.31)
@@ -3333,7 +3333,7 @@
 		)
 		(path "/203487fd-2bbc-4a56-b569-ab95368c4611")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.65 0.9)
@@ -3790,7 +3790,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4f355ba9-f935-40f1-bd63-2a3820944cbf")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(solder_mask_margin 0.038)
 		(attr smd)
 		(fp_line
@@ -4196,7 +4196,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/23b00eb1-9342-40f1-a675-e2e4a01e2263")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(solder_mask_margin 0.038)
 		(fp_line
 			(start -0.9 -0.4)
@@ -4377,7 +4377,7 @@
 		)
 		(path "/693e1f40-344b-42e8-a224-d76b49539d3c")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.65 0.9)
@@ -4795,7 +4795,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/68e6b4c5-1c43-4262-ae5a-fa3a2b409f46")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(solder_mask_margin 0.038)
 		(attr smd)
 		(fp_line
@@ -5201,7 +5201,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b3c999a0-d832-43c5-bf5a-06cd58451ac4")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(solder_mask_margin 0.038)
 		(fp_line
 			(start 0.9 0.4)
@@ -5566,7 +5566,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/fd866fe7-796c-4323-baf7-6aedc738c22b")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(solder_mask_margin 0.038)
 		(fp_line
 			(start 0.9 -0.4)
@@ -5931,7 +5931,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a28bc19f-b87a-4dc6-8fe3-3ce239e2d550")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(solder_mask_margin 0.038)
 		(fp_line
 			(start 0.9 0.4)
@@ -6296,7 +6296,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/1cf2e6db-5f7a-4b5a-8104-a614465165e0")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(solder_mask_margin 0.038)
 		(fp_line
 			(start 0.9 -0.4)
@@ -6661,7 +6661,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/40c95f34-7397-43ac-bdf4-ded357e5263c")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(solder_mask_margin 0.038)
 		(fp_line
 			(start -0.9 -0.4)
@@ -7026,7 +7026,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/edb361e1-85f3-4ab1-adb7-bf163df7490f")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(solder_mask_margin 0.038)
 		(fp_line
 			(start 0.9 0.4)
@@ -7351,7 +7351,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/90e07902-44d7-4866-b07c-cd1615362c0b")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(solder_mask_margin 0.038)
 		(attr smd)
 		(fp_line
@@ -7568,7 +7568,7 @@
 		)
 		(path "/cd7444dd-21dd-4401-850c-95d3a3cedc1d")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.52 0.52)
@@ -7885,7 +7885,7 @@
 		)
 		(path "/f261c2d9-dde2-4f5c-a360-0e63bbd8d36c")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(attr smd exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 		(fp_rect
 			(start -3 -1.5)
@@ -8029,7 +8029,7 @@
 		)
 		(path "/8bdbe56e-e1b5-4ba4-9f5e-5c115c63740c")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.65 0.9)
@@ -8487,7 +8487,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/252ec67c-2b99-43f4-b083-343591e90621")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(solder_mask_margin 0.038)
 		(fp_line
 			(start -0.9 -0.4)
@@ -8668,7 +8668,7 @@
 		)
 		(path "/b78ae00a-5f7f-4e28-b691-4e160a647f0b")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.65 -0.9)
@@ -9126,7 +9126,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/82706abf-fd8f-4dae-acda-a6b4e6082fa6")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(solder_mask_margin 0.038)
 		(fp_line
 			(start -0.9 -0.4)
@@ -9492,7 +9492,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/461d1a51-22dd-4802-b963-57b23ad94705")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(solder_mask_margin 0.038)
 		(fp_line
 			(start 0.9 0.4)
@@ -9857,7 +9857,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c0a9c8a7-fa0c-4fc3-8578-ccaf1f225ede")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(solder_mask_margin 0.038)
 		(fp_line
 			(start 0.9 -0.4)
@@ -10182,7 +10182,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/98ea514a-9c03-43ed-8fcc-9d073222c682")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(solder_mask_margin 0.038)
 		(attr smd)
 		(fp_line
@@ -10588,7 +10588,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d28382a5-542a-4a5c-8f08-bebc49faf9d3")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(solder_mask_margin 0.038)
 		(fp_line
 			(start -0.9 -0.4)
@@ -11066,7 +11066,7 @@
 		)
 		(path "/d8550695-2ddc-4650-838d-9354cc63c41b")
 		(sheetname "/")
-		(sheetfile "promicro_pack.kicad_sch")
+		(sheetfile "promicro_smol.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.03 -1.54)
@@ -11272,12 +11272,12 @@
 		)
 	)
 	(segment
-		(start 147.6675 117.6025)
-		(end 147.6675 118.4325)
-		(width 0.15)
+		(start 147.4 118.5)
+		(end 147.5 118.6)
+		(width 0.3)
 		(layer "F.Cu")
 		(net 1)
-		(uuid "27fb2e0e-8057-41ff-9121-8478a5bc096d")
+		(uuid "32b8c445-da80-4194-a12e-4471f8750608")
 	)
 	(segment
 		(start 148.4 121.1)
@@ -11288,20 +11288,20 @@
 		(uuid "3ff7e56c-593a-4842-bc3e-5e3401a3f1ce")
 	)
 	(segment
-		(start 147.1675 117.6025)
-		(end 147.6675 117.6025)
-		(width 0.15)
+		(start 147.4 117.6025)
+		(end 147.4 118.5)
+		(width 0.3)
 		(layer "F.Cu")
 		(net 1)
-		(uuid "4758a7b4-98e3-42f6-8133-5be05a24c202")
+		(uuid "589e5fc6-9d46-4ded-90fb-eca4b8f22373")
 	)
 	(segment
-		(start 147.5 117.935)
-		(end 147.1675 117.6025)
-		(width 0.15)
+		(start 147.1675 117.6025)
+		(end 147.4 117.6025)
+		(width 0.3)
 		(layer "F.Cu")
 		(net 1)
-		(uuid "9ba9e7a5-1bc8-4d66-82ae-40116133545f")
+		(uuid "6a85c429-77bc-498a-bdd1-fb633cc22ae4")
 	)
 	(segment
 		(start 148.62 121.1)
@@ -11328,12 +11328,12 @@
 		(uuid "b7ad57c7-f603-4b2c-8892-1151e0b181a9")
 	)
 	(segment
-		(start 147.5 118.6)
-		(end 147.5 117.935)
-		(width 0.15)
+		(start 147.4 117.6025)
+		(end 147.6675 117.6025)
+		(width 0.3)
 		(layer "F.Cu")
 		(net 1)
-		(uuid "f9ee4950-4f98-4493-b3ff-c1b2df50af81")
+		(uuid "c6e92a39-50ac-47ba-b284-edffc32126d0")
 	)
 	(via
 		(at 145.1 113.3)
