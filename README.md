@@ -1,6 +1,6 @@
 # promicro_smol
 
-`promicro_smol` is a compact shield PCB for the nRF52840 Supermini/Pro Micro used in DIY SlimeVR trackers. It has an IMU, magnetometer, two buttons, RGB LED, battery pads and voltage reading functionality. It is designed to be compatible with existing Chrysalis enclosures (not yet verified).
+`promicro_smol` is a compact shield PCB for the nRF52840 Supermini/Pro Micro used in DIY SlimeVR trackers. It has an IMU, magnetometer, two buttons, RGB LED, battery pads and voltage reading functionality. It is designed to be compatible with existing Chrysalis enclosures (not yet verified). Production files can be found in `/pcb/production/`.
 
 ## Why I Made This
 
@@ -8,28 +8,32 @@ This project started as a modification of Chrysalis to support operation at 1.8V
 
 ## Pictures
 
-![3D model](./images/kicad_pdDzEOa1Xo.png)
+3D model
 
 ### Schematic
 
-![Schematic view](./images/kicad_0tHGa6QgOD.png)
+Schematic view
 
 ## Credits and Attribution
+
 This work is derived from the [kounocom/Chrysalis](https://github.com/kounocom/Chrysalis) hardware project.
 
-Files from `Chrysalis-Footprints.pretty` are sourced from the Chrysalis project with and without modifications.
+Files from `/pcb/Chrysalis-Footprints.pretty` are sourced from the Chrysalis project with and without modifications.
 
 The upstream project is provided under CERN-OHL-S-2.0, and this repository includes the applicable license text in `LICENSE.md`.
 
 ## Bill of Materials
 
-| Item | Value / Part | Quantity |
-| --- | --- | ---: |
-| MCU module | ProMicro nRF52840 | 1 |
-| IMU | LSM6DSVTR | 1 |
-| Magnetometer | QMC6309 | 1 |
-| N-FETs | HL3134KT | 5 |
-| RGB LED | NH-B2020RGBA-HF | 1 |
-| Push buttons | Tactile button | 2 |
-| Resistors | 100R, 5.1k, 10k, 3M, 4.7M | 12 |
-| Capacitors | 100nF, 10nF, 2.2uF | 4 |
+
+| Item         | Value / Part                                                                                                                                                                                                                                                                                                                          | Quantity |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| MCU module   | ProMicro nRF52840 (can be found on Aliexpress)                                                                                                                                                                                                                                                                                        | 1        |
+| IMU          | [LSM6DSVQTR (C17496470)](https://www.lcsc.com/product-detail/C17496470.html)                                                                                                                                                                                                                                                             | 1        |
+| Magnetometer | [QMC6309 (C5439871)](https://www.lcsc.com/product-detail/C5439871.html)                                                                                                                                                                                                                                                               | 1        |
+| N-FETs       | [HL3134KT (C52204685)](https://www.lcsc.com/product-detail/C52204685.html)                                                                                                                                                                                                                                                            | 5        |
+| RGB LED      | [NH-B2020RGBA-HF (C2874116)](https://www.lcsc.com/product-detail/C2874116.html)                                                                                                                                                                                                                                                       | 1        |
+| Push buttons | [Tactile Button, 160gf (C318884)](https://www.lcsc.com/product-detail/C318884.html), [Tactile Button, 160gf (C720477)](https://www.lcsc.com/product-detail/C720477.html)                                                                                                                                                              | 2        |
+| Resistors    | [100R (C25076)](https://www.lcsc.com/product-detail/C25076.html), [5.1k (C25905)](https://www.lcsc.com/product-detail/C25905.html), [10k (C25744)](https://www.lcsc.com/product-detail/C25744.html), [3M (C23156)](https://www.lcsc.com/product-detail/C23156.html), [4.7M (C23163)](https://www.lcsc.com/product-detail/C23163.html) | 12       |
+| Capacitors   | [100nF (C307331)](https://www.lcsc.com/product-detail/C307331.html), [10nF (C15195)](https://www.lcsc.com/product-detail/C15195.html), [2.2uF (C23630)](https://www.lcsc.com/product-detail/C23630.html)                                                                                                                              | 4        |
+
+Total Cost for JLCPCB assembly (2 units, 0.8mm thickness, lead-free HASL): $40
