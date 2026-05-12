@@ -2935,7 +2935,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PCM_JLCPCB-Resistors:0603,4.7MΩ"
+		(symbol "PCM_JLCPCB-Resistors:0603,5.1MΩ"
 			(pin_numbers
 				(hide yes)
 			)
@@ -2954,7 +2954,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "4.7MΩ"
+			(property "Value" "5.1MΩ"
 				(at 0 0 90)
 				(do_not_autoplace)
 				(effects
@@ -2972,7 +2972,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF4704T5E_C23163.pdf"
+			(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010216_UNI-ROYAL-Uniroyal-Elec-0603WAF5104T5E_C13320.pdf"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2981,7 +2981,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "100mW Thick Film Resistors 75V ±100ppm/°C ±1% 4.7MΩ 0603 Chip Resistor - Surface Mount ROHS"
+			(property "Description" "100mW Thick Film Resistors 75V ±100ppm/°C ±1% 5.1MΩ 0603 Chip Resistor - Surface Mount ROHS"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2990,7 +2990,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC" "C23163"
+			(property "LCSC" "C13320"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2999,7 +2999,7 @@
 					(hide yes)
 				)
 			)
-			(property "Stock" "85647"
+			(property "Stock" "196613"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3071,7 +3071,7 @@
 					(hide yes)
 				)
 			)
-			(property "Part" "0603WAF4704T5E"
+			(property "Part" "0603WAF5104T5E"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3080,7 +3080,7 @@
 					(hide yes)
 				)
 			)
-			(property "Resistance" "4.7MΩ"
+			(property "Resistance" "5.1MΩ"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3152,7 +3152,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "0603,4.7MΩ_0_1"
+			(symbol "0603,5.1MΩ_0_1"
 				(rectangle
 					(start -1.016 2.54)
 					(end 1.016 -2.54)
@@ -3165,7 +3165,7 @@
 					)
 				)
 			)
-			(symbol "0603,4.7MΩ_1_1"
+			(symbol "0603,5.1MΩ_1_1"
 				(pin passive line
 					(at 0 3.81 270)
 					(length 1.27)
@@ -7609,228 +7609,6 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_JLCPCB-Resistors:0603,4.7MΩ")
-		(at 72.39 137.16 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0eaa0e4c-0b9e-4466-99f1-1a7cbf4b8adc")
-		(property "Reference" "R11"
-			(at 72.39 133.35 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "4.7MΩ"
-			(at 72.39 137.16 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 0.8 0.8)
-				)
-			)
-		)
-		(property "Footprint" "PCM_JLCPCB:R_0603"
-			(at 72.39 138.938 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF4704T5E_C23163.pdf"
-			(at 72.39 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/°C ±1% 4.7MΩ 0603 Chip Resistor - Surface Mount ROHS"
-			(at 72.39 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C23163"
-			(at 72.39 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Stock" "85647"
-			(at 72.39 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" "0.005USD"
-			(at 72.39 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Process" "SMT"
-			(at 72.39 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Minimum Qty" "20"
-			(at 72.39 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Attrition Qty" "10"
-			(at 72.39 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Class" "Preferred Component"
-			(at 72.39 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Category" "Resistors,Chip Resistor - Surface Mount"
-			(at 72.39 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 72.39 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part" "0603WAF4704T5E"
-			(at 72.39 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Resistance" "4.7MΩ"
-			(at 72.39 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Power(Watts)" "100mW"
-			(at 72.39 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Type" "Thick Film Resistors"
-			(at 72.39 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Overload Voltage (Max)" "75V"
-			(at 72.39 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Operating Temperature Range" "-55°C~+155°C"
-			(at 72.39 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "±1%"
-			(at 72.39 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Temperature Coefficient" "±100ppm/°C"
-			(at 72.39 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ef50e6e6-f747-4069-861f-b2b5b422f3ad")
-		)
-		(pin "1"
-			(uuid "82798b0e-35c2-48a7-906b-1eef497814e6")
-		)
-		(instances
-			(project ""
-				(path "/d5cb55fc-68f7-4d45-bbca-416b4e0dde8f"
-					(reference "R11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 123.19 90.17 0)
 		(unit 1)
@@ -9563,6 +9341,228 @@
 			(project "promicro_pack"
 				(path "/d5cb55fc-68f7-4d45-bbca-416b4e0dde8f"
 					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_JLCPCB-Resistors:0603,5.1MΩ")
+		(at 72.39 137.16 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4c8f592b-906d-421d-9929-f77f024c397b")
+		(property "Reference" "R11"
+			(at 72.39 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5.1MΩ"
+			(at 72.39 137.16 90)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:R_0603"
+			(at 72.39 138.938 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010216_UNI-ROYAL-Uniroyal-Elec-0603WAF5104T5E_C13320.pdf"
+			(at 72.39 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/°C ±1% 5.1MΩ 0603 Chip Resistor - Surface Mount ROHS"
+			(at 72.39 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C13320"
+			(at 72.39 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stock" "196613"
+			(at 72.39 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "0.005USD"
+			(at 72.39 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Process" "SMT"
+			(at 72.39 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Minimum Qty" "20"
+			(at 72.39 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Attrition Qty" "10"
+			(at 72.39 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Class" "Preferred Component"
+			(at 72.39 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Resistors,Chip Resistor - Surface Mount"
+			(at 72.39 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 72.39 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part" "0603WAF5104T5E"
+			(at 72.39 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Resistance" "5.1MΩ"
+			(at 72.39 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power(Watts)" "100mW"
+			(at 72.39 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "Thick Film Resistors"
+			(at 72.39 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Overload Voltage (Max)" "75V"
+			(at 72.39 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Temperature Range" "-55°C~+155°C"
+			(at 72.39 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±1%"
+			(at 72.39 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature Coefficient" "±100ppm/°C"
+			(at 72.39 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a91e1453-177d-4a84-8ab2-ff6d84a1a2cf")
+		)
+		(pin "2"
+			(uuid "21e55fb2-ed7a-4c8b-a427-bc4ce3b1713c")
+		)
+		(instances
+			(project ""
+				(path "/d5cb55fc-68f7-4d45-bbca-416b4e0dde8f"
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -14230,7 +14230,7 @@
 		(at 240.03 138.43 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
